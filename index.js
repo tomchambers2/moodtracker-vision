@@ -1,0 +1,1 @@
+var getPixels = require('get-pixels');
